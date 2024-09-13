@@ -1,5 +1,5 @@
 # Hi, I am JERIN JOY
-I am a passionate engineer with interest and knowledge in the fields of Embedded Systems and Digital and Analog circuit designs. 
+I am a passionate engineer with interest and knowledge in the fields of Embedded Systems, Digital and Analog circuit designs, and computer programming. 
 # Education
 ### Bachelor of Technology in Electronics and Electrical Engineering
 Rajiv Gandhi Institute of Technology, Kottayam
