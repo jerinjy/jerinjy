@@ -8,6 +8,7 @@ Rajiv Gandhi Institute of Technology, Kottayam
 #### C++
 #### C
 #### Python
+#### Java
 #### PCB design
 #### Analog and Digital Circuit design
 # Projects
